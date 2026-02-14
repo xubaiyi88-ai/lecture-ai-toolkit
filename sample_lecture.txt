@@ -1,0 +1,3 @@
+Today we cover the basics of cybersecurity. We discuss the CIA triad: confidentiality, integrity, and availability.
+We then examine common attacks such as phishing and password spraying.
+Finally, we introduce basic defense concepts like least privilege and multi-factor authentication.
