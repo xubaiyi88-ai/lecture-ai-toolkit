@@ -1,4 +1,4 @@
-# Lecture Intelligence Toolkit (No-API “AI” Study Pack Generator)
+# Lecture Intelligence Toolkit (Study Pack Generator)
 
 A lightweight NLP-based tool that converts lecture notes/transcripts into a structured study pack — **without** using paid LLM APIs.
 It generates:
